@@ -1,0 +1,11 @@
+﻿  EBO.cpp
+  main.cpp
+  ShaderClass.cpp
+  stb.cpp
+  Texture.cpp
+  VAO.cpp
+  VBO.cpp
+  Generating Code...
+C:\Users\Precious Uwadone\source\repos\OpenGl2 - Copy\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  glad.c
+  OpenGl2.vcxproj -> C:\Users\Precious Uwadone\source\repos\OpenGl2 - Copy\x64\Debug\OpenGl2.exe
